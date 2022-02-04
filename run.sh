@@ -1,3 +1,3 @@
-javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar SkillDemo2Test.java
+javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar Hello.java
  
-java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore SkillDemo2Test
+java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore HelloTest
